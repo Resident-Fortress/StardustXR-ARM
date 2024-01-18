@@ -1,0 +1,18 @@
+# SPDX-License-Identifier: BSL-1.0
+# SPDX-FileCopyrightText: 2020, Collabora, Ltd.
+
+[Unit]
+Description=Monado XR runtime service module in build tree
+Requires=%N.socket
+ConditionUser=!root
+Conflicts=monado.service
+
+[Service]
+ExecStart=/home/owner/WiVRn/build-server/_deps/monado-build/src/xrt/targets/service/monado-service
+Environment="XRT_COMPOSITOR_LOG=debug" "XRT_PRINT_OPTIONS=on" "IPC_EXIT_ON_DISCONNECT=ON"
+# MemoryDenyWriteExecute=yes
+# NoNewPrivileges=yes
+Restart=no
+
+[Install]
+Also=%N.socket

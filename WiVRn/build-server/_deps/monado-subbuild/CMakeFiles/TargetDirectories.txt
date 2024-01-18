@@ -1,0 +1,3 @@
+/home/owner/WiVRn/build-server/_deps/monado-subbuild/CMakeFiles/monado-populate.dir
+/home/owner/WiVRn/build-server/_deps/monado-subbuild/CMakeFiles/edit_cache.dir
+/home/owner/WiVRn/build-server/_deps/monado-subbuild/CMakeFiles/rebuild_cache.dir
