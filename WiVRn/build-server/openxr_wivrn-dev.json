@@ -1,7 +1,0 @@
-{
-    "file_format_version": "1.0.0",
-    "runtime": {
-        "name": "Monado",
-        "library_path": "/home/owner/WiVRn/build-server/_deps/monado-build/src/xrt/targets/openxr/libopenxr_wivrn.so"
-    }
-}
