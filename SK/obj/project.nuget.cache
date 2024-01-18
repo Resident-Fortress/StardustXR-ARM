@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsWqHIfJeyJX9HRp0jOb5RkoqbNkZSepvPdMukVfECfiwkRtpg1W+lUfKLanBfDlZTVv4NkXbALPgdX8zS5w1A==",
+  "success": true,
+  "projectFilePath": "/home/owner/Documents/SK/SK.csproj",
+  "expectedPackageFiles": [
+    "/home/owner/.nuget/packages/stereokit/0.3.9-preview.432/stereokit.0.3.9-preview.432.nupkg.sha512",
+    "/home/owner/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
