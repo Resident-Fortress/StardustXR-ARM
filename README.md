@@ -1,6 +1,8 @@
 # StarDustXR-RPi5
 Attempting to run StarDust XR on a Raspberry Pi 5.
 
+Later on a Release will be published.
+
 This Repository doesn't represent the final version and should only be used in Debug for now!
 
 I recently started poking around VR display servers for Linux and found StarDust. This took about two days of poking around and figuring out what needs to be patched for StarDust to hopefully run on the Pi 5.
