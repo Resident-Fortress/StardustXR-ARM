@@ -1,4 +1,4 @@
-# StarDustXR-RPi5
+# StarDustXR-ARN
 Attempting to run StarDust XR on a Raspberry Pi 5.
 
 Later on a Release will be published.
@@ -48,8 +48,7 @@ I'll be making a repo with prebuilt binaries later if possible. Also, this Gist 
 ## Credits
 
 Credits to these fine folks for helping me:
-
-- Nova King (technobaboo)
+- Nova King [@technobaboo](https://www.github.com/technobaboo)
 - Someone Somewhere (someonesomewhere)
-- galister (galister)
-- koujaku (Nick K) (.koujaku)
+- galister [@galister] (https://github.com/galister)
+- maluoi [@maluoi] (https://github.com/maluoi)
