@@ -50,5 +50,5 @@ I'll be making a repo with prebuilt binaries later if possible. Also, this Gist 
 Credits to these fine folks for helping me:
 - Nova King [@technobaboo](https://www.github.com/technobaboo)
 - Someone Somewhere (someonesomewhere)
-- galister [@galister] (https://github.com/galister)
-- maluoi [@maluoi] (https://github.com/maluoi)
+- galister [@galister](https://github.com/galister)
+- maluoi [@maluoi](https://www.github.com/maluoi)
