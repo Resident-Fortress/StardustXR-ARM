@@ -1,5 +1,5 @@
 # StarDustXR-ARM
-Attempting to run StarDust XR on any ARM based device (Example here is on a Raspberry Pi 5.
+Attempting to run StarDust XR on any ARM based device (Example here is on a Raspberry Pi 5.)
 
 Later on a Release will be published.
 
