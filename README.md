@@ -43,7 +43,7 @@ Afterwards, build WiVRn. If it replaces Monado-Service, just rebuild it or modif
 
 After all of that, you should be able to run StarDustXR. The only issue is that the older version of StereoKit is not working properly as of 1/17/2024. So you'd have to wait.
 
-I'll be making a repo with prebuilt binaries later if possible. Also, this Gist will be updated as I keep working on modifying this wackjob of spaghetti.
+I'll be making a repo with prebuilt binaries later if possible.
 
 ## Credits
 
